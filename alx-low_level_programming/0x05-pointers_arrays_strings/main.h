@@ -9,4 +9,10 @@ void puts_half(char *str);
 void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 void rev_string(char *s);
+at main.h
+echo 'main' > README.md
+cd ..
+echo 'main' > README.md
+cd 0x05-pointers_arrays_strings
+chmod u+x main.h
 
